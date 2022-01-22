@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608993651049",
+    "project_id": "i-message-caed6",
+    "storage_bucket": "i-message-caed6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608993651049:android:050600b78697230c57b5f8",
+        "android_client_info": {
+          "package_name": "com.imeofon.i_message"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608993651049-d9e6imevp1fpk0620bqlp0kgl69f439k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaeHdeKSdgPtenfOYWwsm3_ACTUAJjJso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608993651049-d9e6imevp1fpk0620bqlp0kgl69f439k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
